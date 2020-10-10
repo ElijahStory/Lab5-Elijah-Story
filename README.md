@@ -1,16 +1,19 @@
 # Lab5
 
+# Setup
+The hardware set up is the same for both parts, so it will just be listed once here.
+
+POWER is coming from pin 13. The POWER goes into the breadboard to the POSITIVE leg of an LED, down the NEGATIVE leg through the breadboard and back into the UNO at the GROUND.
+
+![Setup](https://photos.app.goo.gl/Bse3cKvaCXTsD2pn9)
+
 ## Part1
 File Lab5_BlinkLED_ElijahS, just blinks the light on and off.
-
-POWER is coming from pin 13.
 
 [Video link]()
 
 ## Part2
-File Lab5_MorseCode_ElijahS, blinks morse code for a sentance set in the code.
-The serial port is used to make it easier to usderstand what is happening.
+File Lab5_MorseCode_ElijahS, blinks morse code for a sentence set in the code.
+The serial port is used to make it easier to understand what is happening.
 
-POWER is coming from pin 13.
-
-[Video link]()
+[Video link](https://photos.app.goo.gl/CokfNTzhxfykk4NCA)
