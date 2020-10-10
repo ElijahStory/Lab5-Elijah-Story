@@ -31,7 +31,6 @@ String code;//this will hold the morse code for current letter
 void setup() {
   Serial.begin(9600);        //sets up the serial monitor
   pinMode(pinIn, OUTPUT);    //set pin 13 to put out current
-
 }
 
 void loop() {
@@ -57,8 +56,6 @@ void loop() {
       delay(wordWait);  //this gose back to if curr index is SPACE. it adds delay between words
     }
   }
-
-
 }
 
 //blinks for a dot
