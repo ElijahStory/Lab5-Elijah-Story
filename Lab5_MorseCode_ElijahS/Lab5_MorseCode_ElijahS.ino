@@ -3,6 +3,8 @@
 //10-9-2020
 
 //Morse Code
+//blinks morse code for a sentance set in the code.
+//The serial port is used to make it easier to usderstand what is happening.
 
 
 //global variables
