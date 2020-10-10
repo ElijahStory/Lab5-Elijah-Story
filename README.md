@@ -5,7 +5,7 @@ The hardware set up is the same for both parts, so it will just be listed once h
 
 POWER is coming from pin 13. The POWER goes into the breadboard to the POSITIVE leg of an LED, down the NEGATIVE leg through the breadboard and back into the UNO at the GROUND.
 
-![image](images/Setup.png)
+![image](images/Setup.jpg)
 
 ## Part1
 File Lab5_BlinkLED_ElijahS, just blinks the light on and off.
